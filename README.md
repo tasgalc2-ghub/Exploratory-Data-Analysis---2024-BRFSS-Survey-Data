@@ -14,7 +14,7 @@ The project compares three machine learning models and uses grouped permutation 
 
 ## Dataset
 
-The analysis uses adult health survey data containing demographic, socioeconomic, lifestyle, physical health, and self-rated health information.
+The analysis uses adult health survey data from the **2024 BRFSS Survey** containing demographic, socioeconomic, lifestyle, physical health, and self-rated health information.
 
 The original dataset contained hundreds of variables. For this project, six predictors relevant to the research question were selected:
 
